@@ -1,0 +1,18 @@
+# Packages essentiels pour l'analyse de données
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Visualisation de données
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Calculs scientifiques et statistiques
+scipy>=1.11.0
+
+# Machine Learning (optionnel mais utile)
+scikit-learn>=1.3.0
+
+# Jupyter pour l'exploration interactive (optionnel)
+jupyter>=1.0.0
+ipython>=8.17.0
+
